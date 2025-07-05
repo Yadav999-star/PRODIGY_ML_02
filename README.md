@@ -18,3 +18,5 @@ Create a K-means clustering model to group retail customers based on their **pur
 - Visualized clusters to interpret customer groups
 
 ---
+
+Thanks to Prodigy InfoTech for this opportunity to work on real-world machine learning problems and enhance my skills.
