@@ -1,21 +1,20 @@
 # PRODIGY_ML_02
 K-Means clustering 
-## 📌 Task-01: House Price Prediction using Linear Regression
+## 📌 Task-02: Customer Segmentation using K-Means Clustering
 
 ### 🔍 Problem Statement:
-Implement a Linear Regression model to predict house prices based on:
-- Square footage  
-- Number of bedrooms  
-- Number of bathrooms
+Create a K-means clustering model to group retail customers based on their **purchase history**.
 
 ### ⚙️ Technologies Used:
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Scikit-learn (LinearRegression)
+- Scikit-learn (KMeans)
 
 ### ✅ What I Did:
-- Loaded and cleaned the dataset
-- Explored and visualized the data
-- Built a linear regression model using scikit-learn
-- Evaluated the model using metrics like R² score and RMSE
+- Loaded customer data
+- Preprocessed and normalized the features
+- Applied K-Means clustering
+- Visualized clusters to interpret customer groups
+
+---
